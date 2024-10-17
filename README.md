@@ -1,4 +1,4 @@
-# Rocket Academy Coding Bootcamp: context-reducer
+# Context-reducer
 
 ## Available Scripts
 
